@@ -14,12 +14,12 @@ f1_keywords:
  - wdfchildlist/wdfchildlist
 ---
 
-# Wdfchildlist.h header
+# Wdfchildlist.h 标头
 
 
-## -description
+## -描述
 
-This header is used by wdf. For more information, see:
+此标头用于wdf。有关详细信息，请参阅：
 
-- [Windows Driver Framework](../_wdf/index.md)
+- [Windows驱动框架(WDF)](../_wdf/index.md)
 
